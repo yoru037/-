@@ -7,7 +7,7 @@
 
 下载后，右下角任务栏有一个白色图标即是开启。默认的下载位置是C:\Users\用户名\AppData\Roaming
 
-然后打开C:\Users\用户名\AppData\Roaming\espanso\match，里面有个base.yml的文件。将其替换后，点击左上角保存即可运行。
+然后打开C:\Users\用户名\AppData\Roaming\espanso\match，里面有个base.yml文件。将其替换后，点击左上角保存即可运行。
 
 我设置了一些常见的脏话作为屏蔽词，当你输入屏蔽词后会自动在聊天框被替换成“我喜欢你”等。
 
